@@ -1,0 +1,2 @@
+2022-07-28 00:06:19.564  INFO [mediator,9a2bddc59ffde1ef,9a2bddc59ffde1ef] 16536 --- [http-nio-8095-exec-2] com.example.demo.EmployeeController      : From Mediator Controller From method: [getEmployeeDetails] start
+2022-07-28 00:06:19.577  INFO [mediator,9a2bddc59ffde1ef,9a2bddc59ffde1ef] 16536 --- [http-nio-8095-exec-2] com.example.demo.EmployeeController      : From Mediator Controller From method: [getEmployeeDetails] end
